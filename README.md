@@ -35,10 +35,6 @@
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Solved.ac </h2> <div align="left">
     <!-- Solved.ac 기본 등급 카드 -->
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=ptcart4033" />
-
-    <!-- Mazandi 보라 느낌 카드 -->
-    <br/>
-    <img src="http://mazandi.herokuapp.com/api?handle=ptcart4033&theme=warm" />
 </div>
     </div>
     
