@@ -32,8 +32,13 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ptcart&bg_color=60,bf8efb,ffffff&title_color=3d3d3d&text_color=3d3d3d"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptcart&layout=compact&bg_color=60,bf8efb,ffffff&title_color=3d3d3d&text_color=3d3d3d"
            /> </div> 
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Solved.ac </h2> <div style="text-align: left;">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ptcart4033" /> <img src="http://mazandi.herokuapp.com/api?handle=ptcart4033&theme=warm" />
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Solved.ac </h2> <div align="left">
+    <!-- Solved.ac 기본 등급 카드 -->
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ptcart4033" />
+
+    <!-- Mazandi 보라 느낌 카드 -->
+    <br/>
+    <img src="http://mazandi.herokuapp.com/api?handle=ptcart4033&theme=purple" />
 </div>
     </div>
     
