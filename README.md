@@ -12,7 +12,8 @@
   <tr>
     <th>Languages</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,csharp,java,python,javascript" />
+      <img src="https://skillicons.dev/icons?i=c,csharp" />
+        <img src="https://skillicons.dev/icons?i=java,python,javascript" />
     </td>
   </tr>
 
