@@ -12,35 +12,35 @@
   <tr>
     <th>Languages</th>
     <td>
-      <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-007396?style=for-the-badge&logo=Java&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=Python&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=white&label=">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </td>
   </tr>
 
   <tr>
     <th>Backend</th>
     <td>
-      <img src="https://img.shields.io/badge/-000000?style=flat&logo=Flask&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-339933?style=flat&logo=Node.js&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-4479A1?style=flat&logo=MySQL&logoColor=white&label=">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
     </td>
   </tr>
 
   <tr>
     <th>Tools</th>
     <td>
-      <img src="https://img.shields.io/badge/-181717?style=flat&logo=Github&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-F05032?style=flat&logo=Git&logoColor=white&label=">
-      <img src="https://img.shields.io/badge/-5865F2?style=flat&logo=Discord&logoColor=white&label=">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40"/>
     </td>
   </tr>
 
   <tr>
     <th>Design</th>
     <td>
-      <img src="https://img.shields.io/badge/-F24E1E?style=flat&logo=Figma&logoColor=white&label=">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
     </td>
   </tr>
 </table>
