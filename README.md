@@ -8,28 +8,44 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
 
-<div style="text-align: left;">
+<table>
+  <tr>
+    <th>Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-007396?style=flat&logo=Java&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=Python&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=white&label=">
+    </td>
+  </tr>
 
-  <h4>📌 Languages</h4>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+  <tr>
+    <th>Backend</th>
+    <td>
+      <img src="https://img.shields.io/badge/-000000?style=flat&logo=Flask&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-339933?style=flat&logo=Node.js&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-4479A1?style=flat&logo=MySQL&logoColor=white&label=">
+    </td>
+  </tr>
 
-  <h4>📌 Backend / Database</h4>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <tr>
+    <th>Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-181717?style=flat&logo=Github&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-F05032?style=flat&logo=Git&logoColor=white&label=">
+      <img src="https://img.shields.io/badge/-5865F2?style=flat&logo=Discord&logoColor=white&label=">
+    </td>
+  </tr>
 
-  <h4>📌 Tools</h4>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+  <tr>
+    <th>Design</th>
+    <td>
+      <img src="https://img.shields.io/badge/-F24E1E?style=flat&logo=Figma&logoColor=white&label=">
+    </td>
+  </tr>
+</table>
 
-  <h4>📌 Design</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 
-</div>
 
 
     </div>
