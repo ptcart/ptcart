@@ -14,7 +14,6 @@
     <td>
       <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white&label=">
       <img src="https://img.shields.io/badge/-007396?style=for-the-badge&logo=Java&logoColor=white&label=">
-
       <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=Python&logoColor=white&label=">
       <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=white&label=">
     </td>
