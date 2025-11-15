@@ -12,7 +12,7 @@
   <tr>
     <th>Languages</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+      <img src="https://skillicons.dev/icons?i=c,csharp,java,python,javascript" />
     </td>
   </tr>
 
@@ -26,7 +26,7 @@
   <tr>
     <th>Tools</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,discord" />
+      <img src="https://skillicons.dev/icons?i=git,discord,notion" />
     </td>
   </tr>
 
