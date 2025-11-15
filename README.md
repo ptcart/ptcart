@@ -12,34 +12,28 @@
   <tr>
     <th>Languages</th>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
     </td>
   </tr>
 
   <tr>
     <th>Backend</th>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql" />
     </td>
   </tr>
 
   <tr>
     <th>Tools</th>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=git,discord" />
     </td>
   </tr>
 
   <tr>
     <th>Design</th>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=figma" />
     </td>
   </tr>
 </table>
