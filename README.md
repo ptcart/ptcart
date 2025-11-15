@@ -38,7 +38,7 @@
 
     <!-- Mazandi 보라 느낌 카드 -->
     <br/>
-    <img src="http://mazandi.herokuapp.com/api?handle=ptcart4033&theme=purple" />
+    <img src="http://mazandi.herokuapp.com/api?handle=ptcart4033&theme=warm" />
 </div>
     </div>
     
